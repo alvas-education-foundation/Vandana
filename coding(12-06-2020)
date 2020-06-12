@@ -1,0 +1,4 @@
+test_list=['python','java','c++']
+print("Theoriginallist:"+str(test_list))
+res=min(len(ele)foreleintest_list)
+print("Lengthofminimumstringis:"+str(res))
